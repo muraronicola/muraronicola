@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying Artificial Intelligence System at the University Of Trento
+- 🏋️ I’m currently going to the GYM 
