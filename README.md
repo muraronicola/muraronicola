@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying Artificial Intelligence System at the University Of Trento
-- 🏋️ I’m currently going to the GYM 
+- 🔭 I just graduated in Artificial Intelligence Systems at the University Of Trento.
+- ⚡ I currently go to the GYM.
